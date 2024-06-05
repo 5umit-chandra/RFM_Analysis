@@ -16,5 +16,6 @@ And various other formulas such as `VLOOKUP` and `IF`, as well as tools like `co
 
 Segmenting R, F, M ranking on a scale of 0 to 9 and RFM score on a scale of 0 to 999 offers crucial ranularity
 
+##
 > [!NOTE]
 > Check out my repository on **[Customer Segmentation using Machine Learning: K-means clustering]()** on this same dataset.
