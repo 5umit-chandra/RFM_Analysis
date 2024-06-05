@@ -2,7 +2,7 @@
 
 This project focuses on RFM (Recency, Frequency, Monetary) analysis using the Superstore Sales Dataset. `RFM_Analysis_Sales_Dataset.xlsx`
 
-## Dataset Overview
+## Dataset
 
 The Sales Dataset, sourced from [Kaggle.com](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) (train.csv)
 
