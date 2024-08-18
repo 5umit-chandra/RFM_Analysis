@@ -14,7 +14,7 @@ And various other formulas such as `VLOOKUP` and `IF`, as well as tools like `co
 
 ## Significance of Segmentation
 
-Segmenting R, F, M ranking on a scale of 0 to 9 and RFM score on a scale of 0 to 999 offers crucial ranularity
+Segmenting R, F, M ranking on a scale of 0 to 9 and RFM score on a scale of 0 to 999 offers crucial granularity
 
 #
 > [!NOTE]
