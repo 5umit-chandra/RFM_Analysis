@@ -20,6 +20,6 @@ And various other formulas such as `VLOOKUP` and `IF`, as well as tools like `co
 Segmenting R, F, M ranking on a scale of 0 to 9 and RFM score on a scale of 0 to 999 offers crucial granularity
 
 ---
-
+## Screenshots
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/520054c5-a5aa-4652-a3de-e90f284ee0cf" />
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/71994c56-9973-441a-a1bc-7512f96c17b6" />
